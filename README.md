@@ -111,5 +111,5 @@ The backtester relies on a specific set of data models to process market informa
 (Windows) In normal cmd, run
 ```
 set"PYTHONPATH=C:\yourpath\imc-prosperity-4-backtester\prosperity4bt"
-<venv python.exe> <path_to_file> <day>
+<venv python.exe> -m prosperity4bt <path_to_file> <day>
 ```
